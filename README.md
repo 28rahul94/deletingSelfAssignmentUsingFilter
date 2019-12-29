@@ -1,2 +1,0 @@
-# deletingSelfAssignmentUsingFilter
-Created with CodeSandbox
